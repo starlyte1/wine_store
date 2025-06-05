@@ -44,12 +44,13 @@ header .shopping span{
     padding: 20px;
     box-shadow: 0 50px 50px #757676;
     letter-spacing: 1px;
-    border-radius: 2rem;
+    border-radius: 1.2rem;
 }
 .list .item img{
     width: 50%;
     height: 200px;
     object-fit: cover;
+    border-radius: 1.2rem;
 }
 .list .item .title{
     font-weight: 600;
